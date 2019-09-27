@@ -7,6 +7,7 @@ public class Empleado {
 	
 	public static void main(String[] args) {
 		System.out.println("Ejemplo GIT");
+		System.out.println("Solo texto");
 	}
 	
 	
